@@ -8,5 +8,6 @@
                                                   
 ```
 ## Repositories:
-- [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter) – C#-övningar (OOP, funktioner, algoritmer m.m.)
-- [Labbar](https://github.com/MelvinEdlund/Labbar) – Labbar till kursen NEU25G
+- [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)
+- [Labbar](https://github.com/MelvinEdlund/Labbar)
+- [NEU25G_Code_Along]((https://github.com/MelvinEdlund/NEU25G_Code_Along)
