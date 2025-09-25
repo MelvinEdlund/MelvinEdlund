@@ -10,4 +10,4 @@
 ## Repositories:
 - [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)
 - [Labbar](https://github.com/MelvinEdlund/Labbar)
-- [NEU25G_Code_Along]((https://github.com/MelvinEdlund/NEU25G_Code_Along)
+- [NEU25G_Code_Along](https://github.com/MelvinEdlund/NEU25G_Code_Along)
