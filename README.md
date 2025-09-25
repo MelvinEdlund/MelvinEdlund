@@ -7,9 +7,8 @@
 \_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_|
                                                   
 ```
-## Repositories:
+## ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)Repositories:
 - [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)
 - [Labbar](https://github.com/MelvinEdlund/Labbar)
 - [NEU25G_Code_Along](https://github.com/MelvinEdlund/NEU25G_Code_Along)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
