@@ -8,7 +8,8 @@
                                                   
 ```
 
-## ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)Repositories:
+## ![C# Repositories](https://img.shields.io/badge/C%23%20Repositories-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 - [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)
 - [Labbar](https://github.com/MelvinEdlund/Labbar)
 - [NEU25G_Code_Along](https://github.com/MelvinEdlund/NEU25G_Code_Along)
