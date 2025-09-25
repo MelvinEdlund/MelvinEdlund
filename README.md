@@ -1,14 +1,18 @@
-```
- _   _      _ _         _    _            _     _ 
-| | | |    | | |       | |  | |          | |   | |
-| |_| | ___| | | ___   | |  | | ___  _ __| | __| |
-|  _  |/ _ \ | |/ _ \  | |/\| |/ _ \| '__| |/ _` |
-| | | |  __/ | | (_) | \  /\  / (_) | |  | | (_| |
-\_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_|
-                                                  
-```
+<p align="center">
+  <pre>
+   _   _      _ _         _    _            _     _ 
+  | | | |    | | |       | |  | |          | |   | |
+  | |_| | ___| | | ___   | |  | | ___  _ __| | __| |
+  |  _  |/ _ \ | |/ _ \  | |/\| |/ _ \| '__| |/ _` |
+  | | | |  __/ | | (_) | \  /\  / (_) | |  | | (_| |
+  \_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\__,_|
+  </pre>
 
-[![C# Repositories](https://img.shields.io/badge/C%23%20Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/MelvinEdlund?tab=repositories)
+  <a href="https://github.com/MelvinEdlund?tab=repositories">
+    <img src="https://img.shields.io/badge/C%23%20Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
+  </a>
+</p>
+
 
 - [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)
 - [Labbar](https://github.com/MelvinEdlund/Labbar)
