@@ -9,7 +9,7 @@
 </p>
 
 ### Hej 👋
-Jag heter **Melvin** och studerar .NET/C# på **IT-Högskolan**.  
+Jag heter **Melvin** och studerar .Net-Utvecklare på **IT-Högskolan**.  
 Här samlar jag mina labbar, övningar och småprojekt som jag bygger under utbildningen.  
 
 ---
