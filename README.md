@@ -7,12 +7,12 @@ __        __   _
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___| 
   </pre>
 </p>
+
 ### Hej 👋
 Jag heter **Melvin** och studerar .NET/C# på **IT-Högskolan**.  
 Här samlar jag mina labbar, övningar och småprojekt som jag bygger under utbildningen.  
 
 ---
-
   <a href="https://github.com/MelvinEdlund?tab=repositories">
     <img src="https://img.shields.io/badge/C%23%20Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
   </a>
