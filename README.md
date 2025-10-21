@@ -10,7 +10,7 @@
 
 ### Hej 👋
 Jag heter **Melvin** och studerar .Net-Utvecklare på **IT-Högskolan**.  
-Här samlar jag mina labbar, övningar och småprojekt som jag bygger under utbildningen.  
+Här samlar jag mina labbar, övningar och projekt som jag bygger under utbildningen.  
 
 ---
   <a href="https://github.com/MelvinEdlund?tab=repositories">
