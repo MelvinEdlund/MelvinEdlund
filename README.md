@@ -1,10 +1,10 @@
 <p align="center">
   <pre>
-__        __   _                            
-\ \      / /__| | ___ ___  _ __ ___   ___  
- \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ 
-  \ V  V /  __/ | (_| (_) | | | | | |  __/ 
-   \_/\_/ \___|_|\___\___/|_| |_| |_|\___| 
+ __        __   _                          _ 
+ \ \      / /__| | ___ ___  _ __ ___   ___| |
+  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
+   \ V  V /  __/ | (_| (_) | | | | | |  __/_|
+    \_/\_/ \___|_|\___\___/|_| |_| |_|\___(_)                                            
   </pre>
 </p>
 
@@ -16,6 +16,7 @@ Här samlar jag mina labbar, övningar och småprojekt som jag bygger under utbi
   <a href="https://github.com/MelvinEdlund?tab=repositories">
     <img src="https://img.shields.io/badge/C%23%20Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
   </a>
+  
 - [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)  
 - [Labbar](https://github.com/MelvinEdlund/Labbar)  
 - [NEU25G_Code_Along](https://github.com/MelvinEdlund/NEU25G_Code_Along)  
