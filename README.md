@@ -17,7 +17,7 @@ Här samlar jag labbar och projekt som jag bygger under utbildningen.
     <img src="https://img.shields.io/badge/C%23%20Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
   </a>
   
-- [ÖvningsUppgifter](https://github.com/MelvinEdlund/OvningsUppgifter)  
-- [Labbar](https://github.com/MelvinEdlund/Labbar)  
+- [Lab Assignments](https://github.com/MelvinEdlund/Lab-Assignments)  
 - [NEU25G_Code_Along](https://github.com/MelvinEdlund/NEU25G_Code_Along)  
+- [C# Exercises](https://github.com/MelvinEdlund/Exercises-CSharp)  
 - [Snake Game](https://github.com/MelvinEdlund/Snake_Game)  
