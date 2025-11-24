@@ -18,5 +18,5 @@ Här samlar jag labbar och projekt som jag bygger under utbildningen.
   </a>
   
 - [NEU25G Databases](https://github.com/MelvinEdlund/NEU25G-Databases)  
-- [NEU25G_C Sharp](https://github.com/MelvinEdlund/NEU25G-CSharp)  
-- [Lab Assignments C Sharp](https://github.com/MelvinEdlund/Lab-Assignments-CSharp)  
+- [NEU25G C#](https://github.com/MelvinEdlund/NEU25G-CSharp)  
+- [Lab Assignments C#](https://github.com/MelvinEdlund/Lab-Assignments-CSharp)  
