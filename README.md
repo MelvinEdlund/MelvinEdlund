@@ -16,7 +16,9 @@ Här samlar jag labbar och projekt som jag bygger under utbildningen.
   <a href="https://github.com/MelvinEdlund?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
   </a>
+
   
 - [NEU25G Databases](https://github.com/MelvinEdlund/NEU25G-Databases)  
-- [NEU25G C#](https://github.com/MelvinEdlund/NEU25G-CSharp)  
+- [LabAssignments Databases](https://github.com/MelvinEdlund/Lab-Assignments-Databases)
 - [Lab Assignments C#](https://github.com/MelvinEdlund/Lab-Assignments-CSharp)  
+- [NEU25G C#](https://github.com/MelvinEdlund/NEU25G-CSharp)  
