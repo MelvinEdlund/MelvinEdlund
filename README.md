@@ -8,9 +8,7 @@ __        __   _                          _
   </pre>
 </p>
 
-### Hej 👋
-Jag heter **Melvin** och studerar .Net-Utvecklare på **IT-Högskolan**.  
-Här samlar jag labbar och projekt som jag bygger under utbildningen.  
+
 
 ---
   <a href="https://github.com/MelvinEdlund?tab=repositories">
