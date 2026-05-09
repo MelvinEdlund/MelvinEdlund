@@ -17,7 +17,7 @@ __        __   _                          _
 
   
 - [NEU25G Databases](https://github.com/MelvinEdlund/NEU25G-Databases)  
-- [LabAssignments Databases](https://github.com/MelvinEdlund/Lab-Assignments-Databases)
+- [Lab Assignments Databases](https://github.com/MelvinEdlund/Lab-Assignments-Databases)
 - [NEU25G C#](https://github.com/MelvinEdlund/NEU25G-CSharp)  
 - [Lab Assignments C#](https://github.com/MelvinEdlund/Lab-Assignments-CSharp)  
 - [NEU25G WebDev.NET](https://github.com/MelvinEdlund/NEU25G-WebDev.NET)
