@@ -15,7 +15,7 @@ __        __   _                          _
     <img src="https://img.shields.io/badge/Repositories-0969DA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Repositories"/>
   </a>
 
-- [claude-code-kit](https://github.com/MelvinEdlund/Lab-Assignments-WebDev](https://github.com/MelvinEdlund/claude-code-kit) 
+- [claude-code-kit](https://github.com/MelvinEdlund/claude-code-kit) 
 - [NEU25G Databases](https://github.com/MelvinEdlund/NEU25G-Databases)  
 - [Lab Assignments Databases](https://github.com/MelvinEdlund/Lab-Assignments-Databases)
 - [NEU25G C#](https://github.com/MelvinEdlund/NEU25G-CSharp)  
